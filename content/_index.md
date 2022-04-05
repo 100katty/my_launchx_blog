@@ -9,9 +9,9 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Mis experctativas para este proyecto son:
 
--Conocer y poner en practica los conocimientos y concepto de Backend.
--Desarrollar mi logica de programacion.
--Expandir mis conocimientos en lenguajes de programacion.
--Divertirme mucho y conocer personas.
+- Conocer y poner en practica los conocimientos y concepto de Backend.
+- Desarrollar mi logica de programacion.
+- Expandir mis conocimientos en lenguajes de programacion.
+- Divertirme mucho y conocer personas.
 
 🚀
